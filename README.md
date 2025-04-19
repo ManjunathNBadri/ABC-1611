@@ -238,9 +238,16 @@ Finally, set up a GitHub webhook to trigger the Jenkins pipeline when code is pu
 •	Select Just the push event (or other events you want to trigger the pipeline).
 •	Click Add webhook.
 
+**Webhook  Setting**
 ![image](https://github.com/user-attachments/assets/adc65c78-5b7d-4aa1-af79-7c2a36e3aac0)
-![image](https://github.com/user-attachments/assets/4e70da23-9e18-4183-8d90-29d7257466ba)
-![image](https://github.com/user-attachments/assets/8046acc0-8717-4f85-9f6c-7d3d31a73334)
+
+**Pipeline Overview**
+![image](https://github.com/user-attachments/assets/bb215a32-4987-4c73-9649-5a1bc42b3112)
+
+**Deployment completed successfully!**
+![image](https://github.com/user-attachments/assets/42815798-c85d-4e01-92b3-b3c971842e4c)
+
+**Tomcat output**
 ![image](https://github.com/user-attachments/assets/76539c5c-3e33-472d-a518-0e0ecc5ebd85)
 
 
